@@ -17,7 +17,7 @@ ORCL =
        (ADDRESS = (PROTOCOL = TCP)(HOST = database-1.ci3kdif6dctu.us-east-1.rds.amazonaws.com)(PORT = 1521))
      )
      (CONNECT_DATA =
-       (SERVICE_NAME = PIRATE)
+       (SERVICE_NAME = ORCL)
      )
    )
 
@@ -27,6 +27,6 @@ ORCL =
        (ADDRESS = (PROTOCOL = TCP)(HOST = database-1.ci3kdif6dctu.us-east-1.rds.amazonaws.com)(PORT = 1521))
      )
      (CONNECT_DATA =
-       (SID = PIRATE)
+       (SID = ORCL)
      )
    )

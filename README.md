@@ -6,3 +6,7 @@ ORCL =
     (SERVICE-NAME = ADMIN)
     )
     )
+
+
+
+/opt/oracle/instantclient_21_4/network/admin

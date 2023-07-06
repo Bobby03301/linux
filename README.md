@@ -9,3 +9,14 @@ ORCL =
 
 
 /opt/oracle/instantclient_21_4/network/admin
+
+
+ORCL =
+   (DESCRIPTION =
+     (ADDRESS_LIST =
+       (ADDRESS = (PROTOCOL = TCP)(HOST = database-1.ci3kdif6dctu.us-east-1.rds.amazonaws.com)(PORT = 1521))
+     )
+     (CONNECT_DATA =
+       (SERVICE_NAME = PIRATE)
+     )
+   )

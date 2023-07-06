@@ -1,5 +1,6 @@
 
 ###### /opt/oracle/instantclient_21_4/network/admin
+###### https://www.geeksforgeeks.org/how-to-install-sqlplus-on-linux/
 
 ## SERVICE_NAME
 ORCL =

@@ -20,3 +20,13 @@ ORCL =
        (SERVICE_NAME = PIRATE)
      )
    )
+
+   ORCL =
+   (DESCRIPTION =
+     (ADDRESS_LIST =
+       (ADDRESS = (PROTOCOL = TCP)(HOST = database-1.ci3kdif6dctu.us-east-1.rds.amazonaws.com)(PORT = 1521))
+     )
+     (CONNECT_DATA =
+       (SID = PIRATE)
+     )
+   )
